@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">OYO Hotel Booking Clone</string>
+    <string name="last_searches">Last Searches</string>
+    <string name="search">Search</string>
+    <string name="x">X</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="chennai">Chennai</string>
+    <string name="kolkata">Kolkata</string>
+    <string name="delhi">Delhi</string>
 </resources>
